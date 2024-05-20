@@ -1,2 +1,4 @@
-# graceful-connection
-长连接组件
+# Graceful Connection
+
+长连接通信组件(开发中)
+
